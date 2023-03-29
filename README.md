@@ -1,0 +1,2 @@
+# ExhibitionSearch
+用BeautifulSoup抓到想要的資料，再用pandas存成excel檔，最後用tkinter包裝介面
